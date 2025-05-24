@@ -1,6 +1,4 @@
 streamlit
-blast
-msa
 biopython
 matplotlib
 pandas
