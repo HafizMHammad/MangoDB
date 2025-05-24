@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+
+[server]
+headless = true
+
+[runner]
+runOnSave = false
+
+[ui]
+wideMode = true
